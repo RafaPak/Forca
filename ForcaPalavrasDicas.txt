@@ -1,0 +1,100 @@
+Esmeralda      Pedra preciosa que tem uma coloração verde
+Vingadores     Filme de um grupo de super-heróis da Marvel
+Marvel         Empresa de entretenimento conhecida principalmente pelas HQs, filmes e séries
+Água           Líquido essencial para a vida
+Mutação        Modificação no gene do indivíduo
+História       Matéria escolar que conta as coisas que ocorreram no passado e nos ajudam a melhorar o futuro através do estudo dela
+Fogo           Uma das descobertas mais antigas da história, que até hoje afetam na vida e são importantes
+Forca          O jogo que você está jogando
+Garrafa        Recipiente que guarda líquido, normalmente água
+Celular        Bem material que é muito importante na vida humana e a maioria das pessoas não larga, geralmente causa vício
+Informação     Na Era em que vivemos, isso é uma das coisas essenciais
+Sólido         Estado físico em que o gelo se apresenta
+Líquido        Estado físico em que a água se apresenta
+Gasoso         Estado físico em que o vapor se apresenta
+Dinheiro       Bem material mais valorizado pelos seres humanos
+Ouro           Mineral precioso e muito valorizado
+Tesoura        Objeto utilizado para cortar coisas, principalmente papel
+Amor           Sentimento humano mais valioso e precioso
+Passatempo     Serve para passar o tempo
+Matemática     Matéria escolar com ligação essencial aos números
+Quadrado       Polígono com quatro lados, equilátero e retangular
+Número         Representação gráfica de quantidade, utilizados desde que foram criados
+Português      Língua falada pelas pessoas que moram em Portugal, ou países colonizados por este
+Música         Sequência de sons padronizada que relaxa a maioria das pessoas
+Moradia        Local onde as pessoas moram
+Mochila        Local onde as pessoas guardam várias coisas, para poderem levar essas coisas com mais facilidade
+Garrafa        Recipiente onde se guarda um líquido, geralmente água
+Branco         Cor resultante da junção de todas as cores do arco íris
+Youtube        Plataforma de vídeos na internet
+Inglês         Língua mais falada no mundo
+Brasil         Maior país da América Latina
+Livro          Algo escrito por nós, que pode conter informações importantes, como conhecimento, ou histórias feitas por nós
+Sapato         Usamos nos pés quando vamos sair
+Amigo          Pessoa que temos intimidade, podemos confiar e sempre estará ao nosso lado
+Som            Qualquer coisa que podemos ouvir
+Carteira       Usada geralmente para guardar dinheiro
+Borracha       Usada para apagar escritas feitas com lápis
+Dente          A maioria dos seres vivos apresenta, é utilizado para morder e triturar a comida
+Travesseiro    Utilizamos para apoiar nossas cabeças ao dormir
+Cobertor       Isolante térmico que usamos durante a noite para dormir aquecidos
+Oxigênio       Um dos gases essenciais para a vida
+Tristeza       Sentimento contrário à felicidade
+Felicidade     Sentimento contrário à tristeza
+China          Maior país do continente asiático
+Zumbi          Personagem fictício que é caracterizado como morto-vivo
+Vampiro        Personagem fictício que se alimenta de sangue
+Basquete       Esporte em que você tem de fazer cestas para pontuar
+Futebol        Esporte em que você tem de fazer gols para pontuar
+Escola         Local onde várias pessoas, principalmente crianças e adolescentes, vão para aprender
+Terra          Planeta em que habitamos
+Facebook       Rede social mais conhecida
+Superman       Super herói mais famoso
+Vermelho       Cor mais quente
+Azul           Cor mais fria
+Preto          Cor mais escura
+Vitória        Quando você vence algo
+Derrota        Quando você perde algo
+Respeito       Consideração, tratar a outra pessoa bem
+Rock           Estilo musical
+Carta          Meio que as pessoas usavam para se comunicar há muito tempo atrás, que ainda hoje é usado, porém com menos frequência
+Chave          Usada para destrancar coisas
+Porta          Geralmente está entre cômodos, abre e fecha
+Comida         Usamos para nos alimentarmos
+Pesquisa       Quando você procura mais informações sobre algo
+Gravidade      Força que todo corpo exerce, e é proporcional à massa
+Biologia       Área da ciência que estuda a vida
+Laranja        Nomeia uma cor e uma fruta
+Uva            Frute roxa
+Banana         Fruta característica dos macacos, amarela
+Machado        Usado para cortar madeira
+Navio          Transporte usado para atravessar o mar
+Avião          Transporte que acontece no meio aéreo
+Carro          Transporte mais comum
+Prédio         Construção bem grande e alta, que abriga várias pessoas
+Óculos         Usado por pessoas com problemas de visão
+Autor          Criador de uma obra literária
+Antártida      Continente extremamente frio
+Rússia         País bem grande que está em dois continentes ao mesmo tempo
+Dicionário     Livro com o significado de várias palavras
+Itália         País com formato semelhante ao de uma bota
+Prato          Onde colocamos a comida para comer
+Talher         Utilizamos para comer a comida
+Cola           Serve para colar as coisas
+Cama           Local onde dormimos
+Noite          Período após o sol se pôr, com a presença da Lua
+Lua            Satélite natural da Terra
+Via Láctea     Galáxia onde se encontra o nosso Sistema Solar
+Peso           Massa multiplicada pela força da gravidade
+Oceano         Grande massa de água, divisor de terras
+Medo           Sentimento de insegurança
+Pneu           A maioria dos meios de trasnporte precisa para se locomover
+Trem           Meio de transporte que tem uma locomotiva e vários vagões
+Nariz          Órgão do ser humano que expira e inspira
+Mão            Orgão responsável pelo tato
+Olho           Órgão responsável pela visão
+Orelha         Órgão responsável pela audição
+Mesa           Local de apoio para várias coisas
+Cadeira        Local onde nós sentamos
+Anel           Usado no dedo, geralmente simboliza relacionamentos
+Leão           Animal considerado rei da selva
